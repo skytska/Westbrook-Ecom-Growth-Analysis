@@ -1,0 +1,9 @@
+# Кажемо GitHub рахувати SQL як код
+*.sql linguist-detectable=true
+
+# Кажемо ігнорувати технічне сміття, якщо воно раптом залишилось
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.f90 linguist-vendored
+*.pyc linguist-vendored
