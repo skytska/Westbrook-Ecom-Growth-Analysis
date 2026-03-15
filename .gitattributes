@@ -1,7 +1,10 @@
-# Кажемо GitHub рахувати SQL як код
+# ask GitHub to treat SQL as code
 *.sql linguist-detectable=true
+# ask GitHub to treat Jupyter Notebooks as Python code
+*.ipynb linguist-language=Python
 
-# Кажемо ігнорувати технічне сміття, якщо воно раптом залишилось
+
+# ignore technical garbage if it suddenly remains
 *.c linguist-vendored
 *.cpp linguist-vendored
 *.h linguist-vendored
