@@ -1,4 +1,4 @@
-# Westbrook | Growth Constraints and Strategic Opportunities in a Mature E-commerce Business
+# *Westbrook* | Growth Constraints and Strategic Opportunities in a Mature E-commerce Business
 
 ---
 
@@ -56,6 +56,11 @@ See [Data Documentation](/1_data/data_documentation.md) for detailed dataset des
 👆 Click the [Tableau Public dashboard](https://surl.lu/ghsaos) to explore interactive filters and drill-downs.
 
 ---
+> ### Business Impact
+> * **Stagnation Source:** Revenue is capped by flat new customer acquisition.
+> * **Core Risk:** 72% dependency on two categories (Electronics & Home).
+> * **Opportunity:** High retention (80%) provides a safe base for experimental product launches.
+
 
 **Key Findings**
 
