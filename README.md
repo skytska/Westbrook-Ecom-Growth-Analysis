@@ -25,7 +25,7 @@ The analysis focuses on **five core business dimensions**:
 
 ## II. Data Structure & Validation
 
-The dataset includes **over 100,000 transactions** covering customer purchases, product attributes, and order details.
+The [dataset](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset/data) includes **over 100,000 transactions** covering customer purchases, product attributes, and order details.
 
 The analytical dataset consists of **three core relational tables**:
 

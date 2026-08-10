@@ -2,7 +2,7 @@
 
 ## 1. Data Source
 
-**Original file:** `amazon_sales.csv`  
+**Original file:** [`amazon_sales.csv`](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset/data)  
 **Source:** Kaggle  
 **Type:** Synthetic dataset  
 
