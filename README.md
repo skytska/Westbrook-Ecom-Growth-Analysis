@@ -58,7 +58,7 @@ See [Data Documentation](/1_data/data_documentation.md) for detailed dataset des
 
 ---
 > ### Business Impact
-> * **Stagnation Source:** Revenue is capped by flat new customer acquisition.
+> * **Growth Constraint:** Declining contribution from new customers limits revenue expansion.
 > * **Core Risk:** 72% dependency on two categories (Electronics & Home).
 > * **Opportunity:** High retention (80%) provides a safe base for experimental product launches.
 
@@ -156,7 +156,7 @@ The **average cancellation rate is ~3%**, though some states show higher levels:
 
 **Strategic Insights**
 
-* **Texas and California act as primary growth hubs** for the business
+* **Texas and California are the company's primary revenue markets** for the business
 * Higher cancellation rates in some states **do not correlate with shipping costs**, suggesting other drivers such as **traffic quality, product-market fit, or product page communication**
 * **Washington shows the lowest cancellation rate**, potentially indicating **higher demand quality or stronger product-market alignment**
 
