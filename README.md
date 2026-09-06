@@ -58,9 +58,10 @@ See [Data Documentation](/1_data/data_documentation.md) for detailed dataset des
 
 ---
 > ### Business Impact
-> * **Growth Constraint:** Declining contribution from new customers limits revenue expansion.
-> * **Core Risk:** 72% dependency on two categories (Electronics & Home).
-> * **Opportunity:** High retention (80%) provides a safe base for experimental product launches.
+>* **Growth Constraint:** Revenue growth is constrained by stable customer and order volumes, while the contribution of new customers declined in 2024.
+>* **Core Risk:** The business generates ~72% of revenue from Electronics and Home & Kitchen, creating significant category concentration.
+>* **Opportunity:** A large share of revenue comes from returning customers, providing an opportunity to further develop the existing customer base while strengthening acquisition.
+
 
 
 **Key Findings**
@@ -75,7 +76,7 @@ Despite stable performance across key metrics, **no meaningful organic growth is
 
 **Strategic Interpretation**
 
-The company appears to operate in a **mature stage of its business lifecycle**. Operational processes are stable and **customer retention is strong**, but **new growth drivers are limited**.
+The company shows characteristics of a **mature business:** its core performance metrics remain stable, but the analysis identifies **limited evidence of sustained growth**. Future expansion will require **developing additional growth drivers**.
 
 Future expansion will likely require:
 
@@ -115,7 +116,7 @@ Demand patterns show **consistent seasonality across all analyzed years**.
 
 * Demand peaks appear to be **driven by specific months rather than extended holiday periods**
 * The pattern may reflect **marketing campaign timing, product cycles, or market-specific events**
-* The **December 2024 decline**, particularly in **Texas and California**, may indicate **competitive pressure, reduced marketing activity, or operational constraints**
+* The **December 2024 decline** represents an anomaly that would require additional business data to explain, such as marketing activity, traffic, inventory availability, or competitive conditions
 
 ---
 
@@ -133,7 +134,7 @@ Electronics dominates due to **sales volume**, generating **over 10,000 orders**
 **Strategic Insights**
 
 * The business is **highly dependent on a single category**, creating **portfolio concentration risk**
-* The current growth model is **volume-driven rather than price-driven**, suggesting potential to scale mid-tier categories **without major pricing changes**
+* Revenue differences across categories are primarily **driven by order volume rather than AOV**, suggesting that future growth may come from increasing demand or expanding the product portfolio rather than relying solely on pricing changes.
 
 ---
 
@@ -156,9 +157,9 @@ The **average cancellation rate is ~3%**, though some states show higher levels:
 
 **Strategic Insights**
 
-* **Texas and California are the company's primary revenue markets** for the business
+* **Texas and California are the company's primary revenue markets**
 * Higher cancellation rates in some states **do not correlate with shipping costs**, suggesting other drivers such as **traffic quality, product-market fit, or product page communication**
-* **Washington shows the lowest cancellation rate**, potentially indicating **higher demand quality or stronger product-market alignment**
+* **Washington has the lowest cancellation rate** among the analyzed states. However, additional data would be required to determine the underlying reasons for this difference.
 
 ---
 
@@ -170,12 +171,13 @@ A **significant shift in customer revenue composition occurred in 2024**.
 
 * Returning customer revenue share increased from **69.3% (2023)** to **80.3% (2024)**
 * New customer revenue share decreased from **30.7% to 19.7%**
+This indicates that revenue became increasingly dependent on customers acquired in previous years.
 
 **Strategic Insights**
 
-The business has become **increasingly retention-driven**.
+The business has become **increasingly dependent on returning customers for revenue generation**. 
 
-Customer loyalty appears strong, but **declining new-customer revenue may indicate slowing acquisition momentum**, which could **limit long-term scalability if the trend continues**.
+This is a positive signal of continued customer activity, but the decline in new-customer revenue **may indicate weaker acquisition momentum**. If this pattern continues, it could limit the business's ability to expand its customer base and generate long-term growth.
 
 ---
 
@@ -195,9 +197,8 @@ Expanding Home & Kitchen and adjacent categories could diversify revenue streams
 Revenue is heavily concentrated in Texas and California, which act as the company’s primary growth markets.
 Focused localized marketing investment and optimized advertising strategies could further scale performance in these regions.
 
-**4. Further Monetize the Existing Customer Base**<br>
-Returning customers already generate the majority of revenue.
-Strengthening loyalty programs, email marketing, and subscription-based offers could increase customer lifetime value and repeat purchase frequency.
+**4. Balance Customer Retention and Acquisition**<br>
+Returning customers generate the majority of revenue, making the existing customer base an important source of value. The business should continue developing retention initiatives while also investigating the decline in new-customer revenue and identifying opportunities to strengthen customer acquisition.
 
 **5. Investigate Regional Order Cancellations**<br>
 Higher cancellation rates in Indiana and Ohio suggest potential operational or behavioral issues.
@@ -210,9 +211,9 @@ Targeted promotions during February (historically weak) and increased marketing 
 
 ---
 
-*Technical summary of tools and analytical methods used in this project*
+*Technical Summary of Tools and Analytical Methods Used in This Project*
 
 - Tools: Python (Pandas), Jupyter Notebook, SQL, Tableau  
 - Techniques: Data cleaning, exploratory data analysis (EDA), data validation, aggregation, KPI calculation, dashboard design  
-- Key Metrics: Revenue, Average Order Value (AOV), Customer Segments, Repeat Purchase Rate, Payment Methods, Delivery Performance
+- Key Metrics: Revenue, Orders, Customers, Average Order Value (AOV), Repeat Purchase Rate, Customer Revenue Composition, Cancellation Rate
 
